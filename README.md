@@ -34,4 +34,4 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 O projeto está disponível em [Android-1.1 no Vercel]([https://sistok-murex.vercel.app/](https://android-1-1.vercel.app/)) para visualização.
 
-Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+Seja bem-vindo ao Android-1.1, e sinta-se à vontade para contribuir ou entrar em contato conosco!
